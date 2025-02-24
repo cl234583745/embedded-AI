@@ -8,6 +8,11 @@ https://gitee.com/292812832/embedded-AI/blob/main/03_tsinghua02/doc/DeepSeek%E5%
 
 https://gitee.com/292812832/embedded-AI/blob/main/04_tsinghua03/doc/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%BC%B9-%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E6%8A%93%E4%BD%8FDeepSeek%E7%BA%A2%E5%88%A9.pdf
 
+https://gitee.com/292812832/embedded-AI/blob/main/05_tsinghua04/doc/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%AC%AC%E5%9B%9B%E5%BC%B9%EF%BC%9ADeepSeek%2BDeepResearch%EF%BC%9A%E8%AE%A9%E7%A7%91%E7%A0%94%E5%83%8F%E8%81%8A%E5%A4%A9%E4%B8%80%E6%A0%B7%E7%AE%80%E5%8D%95.pdf
+
+https://gitee.com/292812832/embedded-AI/blob/main/06_tsinghua05/doc/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%BA%94%E5%BC%B9%EF%BC%9ADeepSeek%E4%B8%8EAI%E5%B9%BB%E8%A7%89.pdf
+
+
 
 一、能做什么?
 二、要怎么做?
