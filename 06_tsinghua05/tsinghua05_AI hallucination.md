@@ -1,4 +1,4 @@
-嵌入式AI(6)清华大学DeepSeek 05：普通人如何抓住DeepSeek红利
+嵌入式AI(6)清华大学DeepSeek 05：DeepSeek与AI幻象
 ===
 [toc]
 下载：
